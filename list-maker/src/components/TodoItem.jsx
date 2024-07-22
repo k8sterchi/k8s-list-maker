@@ -1,0 +1,1 @@
+//displays individual todo item with options to complete, remove, or edit
